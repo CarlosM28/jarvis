@@ -1,0 +1,30 @@
+=======================================================
+  🎤  Jarvis en Windows — escuchando aplausos
+      (Ctrl+C para salir)
+=======================================================
+  🎙️   Micrófono: Micrófono de escritorio (RØDE N
+  🎚️   Calibrando ruido ambiente (2s)… quédate en silencio.
+     Ruido ambiente ≈ 0.0004  →  umbral de aplauso ≈ 0.100
+     ⚠️   Señal muy baja: sube la ganancia/volumen del micrófono en Windows.
+  👂  Siempre escuchando en segundo plano. Aplaude 2 veces cuando quieras 👏👏
+
+  👏  Aplauso 1/2  (pico=0.147 / umbral=0.100 / ratio=7.44)
+  👏  Aplauso 1/2  (pico=0.135 / umbral=0.100 / ratio=3.75)
+  👏  Aplauso 1/2  (pico=0.430 / umbral=0.100 / ratio=4.63)
+  👏  Aplauso 1/2  (pico=0.150 / umbral=0.100 / ratio=14.83)
+  👏  Aplauso 1/2  (pico=0.423 / umbral=0.100 / ratio=27.72)
+  👏  Aplauso 2/2  (pico=0.138 / umbral=0.100 / ratio=4.93)
+
+🚀  Iniciando secuencia de bienvenida…
+
+  🔊  Jarvis: «Welcome home, Mister Monteverde. All systems are online and ready at your command.»
+  🎵  Reproduciendo música en segundo plano…
+  🤖  Abriendo Claude en Chrome…
+  💻  Abriendo Antigravity…
+  🪟  Organizando ventanas…
+
+✅  Secuencia completada.
+
+
+👂  Escuchando de nuevo…
+
